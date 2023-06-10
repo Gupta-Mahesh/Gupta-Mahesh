@@ -1,12 +1,6 @@
 
 **About:**
-[<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>](https://media.licdn.com/dms/image/D5603AQHAOmLyt_WiOQ/profile-displayphoto-shrink_400_400/0/1686402809090?e=1691625600&v=beta&t=5AY6Lel92Qg0ecXiDHP5es_kEeP5fdHIoeC1g1zwnLY)
-                                                                                                               
-                                                                                                               
-                                                                                                               
-
-                                                                                                               
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+[<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://media.licdn.com/dms/image/D5603AQHAOmLyt_WiOQ/profile-displayphoto-shrink_400_400/0/1686402809090?e=1691625600&v=beta&t=5AY6Lel92Qg0ecXiDHP5es_kEeP5fdHIoeC1g1zwnLY)" alt=”my banner”>]"""                                                                                                              
                                                                                                                
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
 
