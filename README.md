@@ -2,8 +2,6 @@
 **About:**
 
 
-![1686402809090](https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/0c483ac9-40af-478b-84a2-3cb024c93d61)
-
 
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
 
