@@ -14,11 +14,19 @@ Fair Knowledge in API Testing.
 
 **Technical Skills:**
 Programming Languages : Java, Python.
+
 Scripting Languages : Shell scripting(bash).
+
 OS : Linux (fedora/Ubuntu), Windows 7 and 10.
+
 Database : Mysql, SQLServer and sqlite3.
+
 Tools and Utilites : JMeter, Selenium, Zwave programmer, Sniffer, 
+
 Protocol: Z-Wave, Zigbee & WiFi
+
 Source Control : Git.
+
 Concepts : OOPS, Data Structures.
+
 Productivity software applications: JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook)
