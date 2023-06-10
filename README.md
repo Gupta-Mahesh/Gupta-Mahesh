@@ -1,4 +1,4 @@
-# GuptaMahesh
+GuptaMahesh/README.md
 **About:**
 
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
