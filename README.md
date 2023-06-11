@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/0c065130-8cbc-4d7e-86b5-d64de4f0893f" alt="my banner">
+<img width=”200" height=”200"  src="https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/0c065130-8cbc-4d7e-86b5-d64de4f0893f" alt="my banner">
 
 
 ##<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
