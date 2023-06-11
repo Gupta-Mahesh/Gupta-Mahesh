@@ -1,8 +1,8 @@
-
-**About:**
-
+![banner](https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/a7bc9b57-dc68-4995-a30a-7c51f402e322)
 
 
+
+**About me**
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
 
 I have started my carrier from Qolsys software private limited as QA Engineer.
