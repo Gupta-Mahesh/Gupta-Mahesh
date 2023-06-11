@@ -2,11 +2,10 @@
   <a href="https://www.linkedin.com/in/mahesh99kumar/">
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/113816761/244909331-0c065130-8cbc-4d7e-86b5-d64de4f0893f.png" alt="my banner">
 </p>
-<h3 align="center">Hi there 👋,</h4>
-
-**About me**
+<h3 align="center">Hi there, 👋</h4>
+<h3>
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
-
+</h3>
 I have started my carrier from Qolsys software private limited as QA Engineer.
 
 I have a 5+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R , HTML, CSS, SQL. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Science from Uttar Pradesh Technical University. 
