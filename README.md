@@ -1,4 +1,5 @@
-![banner](https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/a7bc9b57-dc68-4995-a30a-7c51f402e322)
+![image](https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/0c065130-8cbc-4d7e-86b5-d64de4f0893f)
+
 
 
 
