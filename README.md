@@ -20,6 +20,17 @@ Skilled in IoT device testing and having a knowledge of programming language in 
   
   <h2 dir="auto">
   <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on</h2>
+<ul dir="auto">
+<li>Android Automation</li>
+<li>Z-Wave aliange testing</li>
+<li>Zigbee Device Test</li>
+<li>API Test using Postman</li>
+<li>Manual Test</li>
+<li>Coordinating with partner</li>
+</ul>
+
+<h2 dir="auto">
+  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently learning </h2>
 
 **Good Knowledge in Z-Wave protocol.**
 Hands on experience in Manual and Automation testing with java.
