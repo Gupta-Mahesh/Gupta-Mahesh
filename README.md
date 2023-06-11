@@ -3,7 +3,7 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/113816761/244909331-0c065130-8cbc-4d7e-86b5-d64de4f0893f.png" alt="my banner">
 </p>
 
-
+<h4 align="center">Hi there,</h4>
 
 **About me**
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
