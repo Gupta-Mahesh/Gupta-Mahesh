@@ -29,8 +29,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 <li>Coordinating with partner</li>
 </ul>
 
-<h2 dir="auto">
-  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently learning </h2>
+<h2 dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm currently learning</h2>
 
 **Good Knowledge in Z-Wave protocol.**
 Hands on experience in Manual and Automation testing with java.
