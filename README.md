@@ -26,6 +26,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 <li>Zigbee Device Test</li>
 <li>API Test using Postman</li>
 <li>Manual Test</li>
+<li>IQ Panel 2 | IQ Hub | IQ4 Lucy | IQHub NS</li>
 <li>Coordinating with partner</li>
 </ul>
 
