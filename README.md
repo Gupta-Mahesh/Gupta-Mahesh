@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Hi there, 👋</h4>
 <h2 align="center" dir="auto">
-I'm a Software engineer at Johnson Controls | IoT and Quality Assurance (QA) Engineer <g-emoji class="g-emoji" alias="art" fallback-src="https://w7.pngwing.com/pngs/324/997/png-transparent-software-quality-assurance-training-qa-limited-outsourcing-others-blue-text-trademark.png">
+At Johnson Controls, I work as a Software Engineer and Quality Assurance Engineer (QA) who specializes in IoT systems.
 </h2>
 <h3>
       <p dir="auto">
