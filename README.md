@@ -7,15 +7,18 @@
 I'm a Software engineer at Johnson Controls | IoT and Quality Assurance (QA) Engineer <g-emoji class="g-emoji" alias="art" fallback-src="https://w7.pngwing.com/pngs/324/997/png-transparent-software-quality-assurance-training-qa-limited-outsourcing-others-blue-text-trademark.png">
 </h2>
 
-<h3 >
-I am a software engineer at Johnson Controls Hyderabad.
-</h3>
 <h3>
 I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016.
 </h3>
-I have started my carrier from Qolsys software private limited as QA Engineer.
+  <p dir="auto">
+    I have started my carrier from Qolsys software private limited as QA Engineer.
+  </p>
+<p dir="auto">
+  I have a 5+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R , HTML, CSS, SQL. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Science from Uttar Pradesh Technical University. 
+  </p>
 
-I have a 5+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R , HTML, CSS, SQL. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Science from Uttar Pradesh Technical University. 
+  <h2 dir="auto">
+  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on</h2>
 
 **Good Knowledge in Z-Wave protocol.**
 Hands on experience in Manual and Automation testing with java.
