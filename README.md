@@ -3,8 +3,8 @@
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/113816761/244909331-0c065130-8cbc-4d7e-86b5-d64de4f0893f.png" alt="my banner">
 </p>
 <h3 align="center">Hi there, 👋</h4>
-<h2 align="center" dir="auto"><a id="user-content-im-a-front-end-web-developer--photographer--and-designer-" class="anchor" aria-hidden="true" 
-I'm a Software engineer at Johnson Controls | IoT and Quality Assurance (QA) Engineer <g-emoji class="g-emoji" alias="art" fallback-src="https://w7.pngwing.com/pngs/324/997/png-transparent-software-quality-assurance-training-qa-limited-outsourcing-others-blue-text-trademark.png"></g-emoji>!
+<h2 align="center" dir="auto">
+I'm a Software engineer at Johnson Controls | IoT and Quality Assurance (QA) Engineer <g-emoji class="g-emoji" alias="art" fallback-src="https://w7.pngwing.com/pngs/324/997/png-transparent-software-quality-assurance-training-qa-limited-outsourcing-others-blue-text-trademark.png">
 </h2>
 
 <h3 >
