@@ -1,11 +1,8 @@
-![image](https://github.com/GuptaMaheshQA/GuptaMaheshQA/assets/113816761/0c065130-8cbc-4d7e-86b5-d64de4f0893f)
-
-
 <p align=”center”>
+  <a href="https://www.linkedin.com/in/mahesh99kumar/">
 <img width=”200" height=”200" src="https://user-images.githubusercontent.com/113816761/244909331-0c065130-8cbc-4d7e-86b5-d64de4f0893f.png" alt="my banner">
 </p>
 
-##<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 
 
 **About me**
