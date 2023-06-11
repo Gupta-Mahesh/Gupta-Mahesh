@@ -10,10 +10,13 @@ I'm a Software engineer at Johnson Controls | IoT and Quality Assurance (QA) Eng
       <p dir="auto">
         I have completed my master degree from Unitet Institite of Maganement Prayagraj (AKTU Lucknow) in 2016 and started my carrier from Qolsys software private limited as QA Engineer.
       </p>
-    <p dir="auto">
-      I have a 5+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R , HTML, CSS, SQL. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Science from Uttar Pradesh Technical University. 
-      </p>
 </h3>
+  
+  <p dir="auto">
+      Holding 5.5+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. 
+    Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R , HTML, CSS, SQL. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Science from Uttar Pradesh Technical University. 
+      </p>
+  
   <h2 dir="auto">
   <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on</h2>
 
