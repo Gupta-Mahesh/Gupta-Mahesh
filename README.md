@@ -25,12 +25,24 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 <li>Z-Wave aliange testing</li>
 <li>Zigbee Device Test</li>
 <li>API Test using Postman</li>
+<li>Web Test using Selenium</li
 <li>Manual Test</li>
 <li>IQ Panel 2 | IQ Hub | IQ4 Lucy | IQHub NS</li>
 <li>Coordinating with partner</li>
 </ul>
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm currently learning</h2>
+<ul dir="auto">
+<li>Android Automation</li>
+<li>Z-Wave aliange testing</li>
+<li>Zigbee Device Test</li>
+<li>API Test using Postman</li>
+<li>Manual Test</li>
+<li>IQ Panel 2 | IQ Hub | IQ4 Lucy | IQHub NS</li>
+<li>Coordinating with partner</li>
+</ul>
+
+<h2 dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Technical Skills</h2>
 
 **Good Knowledge in Z-Wave protocol.**
 Hands on experience in Manual and Automation testing with java.
