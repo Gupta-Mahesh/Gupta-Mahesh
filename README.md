@@ -22,7 +22,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
   <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on</h2>
 <ul dir="auto">
 <li>Android Automation</li>
-<li>Z-Wave aliange testing</li>
+<li>Z-Wave alliance testing</li>
 <li>Zigbee Device Test</li>
 <li>API Test using Postman</li>
 <li>Web Test using Selenium</li>
