@@ -12,7 +12,7 @@ At Johnson Controls, I work as a Software Engineer and Quality Assurance Enginee
   </p>
 
 <p dir="auto">
-  Holding 6.2+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. 
+  Holding 7.2+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. 
 </p>
 <p dir="auto">
 Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R, HTML, CSS, SQL.
