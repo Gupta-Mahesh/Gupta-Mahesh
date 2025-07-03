@@ -27,7 +27,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 <li>API Test using Postman</li>
 <li>Web Test using Selenium</li>
 <li>Manual Test</li>
-<li>IQ Panel 2 | IQ Hub | IQ4 Lucy | IQHub NS</li>
+<li>IQ Panel 2 | IQ4 Lucy | IQHub NS</li>
 </ul>
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I'm currently learning</h2>
