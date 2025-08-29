@@ -77,14 +77,14 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 
   <h3> Technical Skills:</h3>
   <ul>
-  <b> Programming Languages:</b> Java, Python. <br/>
-  <b> Scripting Languages:</b> Shell scripting(bash).<br/>
-  <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.<br/>
-  <b> Database:</b> Mysql, SQLServer and sqlite3.<br/>
-  <b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, <br/>
-  <b> Protocol:</b> Z-Wave, Zigbee & WiFi <br/>
-  <b> Source Control:</b> Git. <br/>
-  <b> Concepts:</b> OOPS, Data Structures. <br/>
-  <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook) <br/>
+  <li> <b> Programming Languages:</b> Java, Python. </li> 
+  <li> <b> Scripting Languages:</b> Shell scripting(bash).</li>
+  <li> <b> OS:</b> Linux (fedora/Ubuntu), Windows 7, 10 and 11. </li>
+  <li> <b> Database:</b> Mysql, SQLServer and sqlite3. </li>
+  <li> <b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, </li>
+  <li> <b> Protocol:</b> Z-Wave, Zigbee & WiFi </li>
+  <li> <b> Source Control:</b> Git. </li>
+  <li> <b> Concepts:</b> OOPS, Data Structures. </li>
+  <li> <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook) </li>
   </ul>
 </ul>
