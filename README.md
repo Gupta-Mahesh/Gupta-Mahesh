@@ -77,14 +77,14 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 
   <h3> Technical Skills:</h3>
   <ul>
-  <b> Programming Languages:</b> Java, Python.
-  <b> Scripting Languages:</b> Shell scripting(bash).
-  <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.
-  <b> Database:</b> Mysql, SQLServer and sqlite3.
-  <b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, 
-  <b> Protocol:</b> Z-Wave, Zigbee & WiFi
-  <b> Source Control:</b> Git.
-  <b> Concepts:</b> OOPS, Data Structures.
-  <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook)
+  <b> Programming Languages:</b> Java, Python. </ul> <br/>
+  <b> Scripting Languages:</b> Shell scripting(bash).<br/>
+  <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.<br/>
+  <b> Database:</b> Mysql, SQLServer and sqlite3.<br/>
+  <b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, <br/>
+  <b> Protocol:</b> Z-Wave, Zigbee & WiFi <br/>
+  <b> Source Control:</b> Git. <br/>
+  <b> Concepts:</b> OOPS, Data Structures. <br/>
+  <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook) <br/>
   </ul>
 </ul>
