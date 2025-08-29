@@ -77,7 +77,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 
   <h3> Technical Skills:</h3>
   <ul>
-  <b> Programming Languages:</b> Java, Python. </ul> <br/>
+  <b> Programming Languages:</b> Java, Python. <br/>
   <b> Scripting Languages:</b> Shell scripting(bash).<br/>
   <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.<br/>
   <b> Database:</b> Mysql, SQLServer and sqlite3.<br/>
