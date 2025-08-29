@@ -21,13 +21,16 @@ Skilled in IoT device testing and having a knowledge of programming language in 
   <h2 dir="auto">
   <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently working on</h2>
 <ul dir="auto">
-<li>Android Automation</li>
-<li>Z-Wave alliance testing</li>
-<li>Zigbee Device Test</li>
-<li>API Test using Postman</li>
-<li>Web Test using Selenium</li>
-<li>Manual Test</li>
-<li>IQ Panel 2 | IQPanel4 | IQ4 No Screen | IQ5 </li>
+  <li>Manual and Automation Testing (Functional, Regression, UAT, Smoke, Sanity)</li>
+  <li>Z-Wave and Zigbee alliance testing</li>  
+  <li>Test Planning, Test Case Design & Execution</li>
+  <li>Defect Tracking & Management (JIRA, Bugzilla, etc.)</li>
+  <li>QA Processes & Best Practices Implementation</li>
+  <li>Team Leadership & Mentoring</li>
+  <li>Requirement Analysis & Test Strategy Design</li>
+  <li>Test Reporting & Metrics Preparation</li>
+  <li>Collaboration with Cross-Functional Teams (Dev, Product, Stakeholders)</li>
+  <li>IQ Panel 2 | IQPanel4 | IQ4 No Screen | IQ5 </li>
 </ul>
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Key Leadership and Management Responsibilities</h2>
