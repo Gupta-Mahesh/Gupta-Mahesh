@@ -67,7 +67,7 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 </ul>
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Technical Skills</h2>
-<ul>
+<ul dir="auto">
   <ul>
   Good Knowledge in Z-Wave protocol.
   Hands on experience in Manual and Automation testing with java.
