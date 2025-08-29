@@ -68,21 +68,23 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Technical Skills</h2>
 <ul>
-Good Knowledge in Z-Wave protocol.
-Hands on experience in Manual and Automation testing with java.
-Good Knowledge in Android and Web testing.
-Fair Knowledge in API Testing.
-</ul>
+  <ul>
+  Good Knowledge in Z-Wave protocol.
+  Hands on experience in Manual and Automation testing with java.
+  Good Knowledge in Android and Web testing.
+  Fair Knowledge in API Testing.
+  </ul>
 
-<h3> Technical Skills:</h3>
-<ul>
-<b> Programming Languages:</b> Java, Python.
-<b> Scripting Languages:</b> Shell scripting(bash).
-<b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.
-<b> Database:</b> Mysql, SQLServer and sqlite3.
-<b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, 
-<b> Protocol:</b> Z-Wave, Zigbee & WiFi
-<b> Source Control:</b> Git.
-<b> Concepts:</b> OOPS, Data Structures.
-<b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook)
+  <h3> Technical Skills:</h3>
+  <ul>
+  <b> Programming Languages:</b> Java, Python.
+  <b> Scripting Languages:</b> Shell scripting(bash).
+  <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.
+  <b> Database:</b> Mysql, SQLServer and sqlite3.
+  <b> Tools and Utilites:</b> JMeter, Selenium, Zwave programmer, Sniffer, 
+  <b> Protocol:</b> Z-Wave, Zigbee & WiFi
+  <b> Source Control:</b> Git.
+  <b> Concepts:</b> OOPS, Data Structures.
+  <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook)
+  </ul>
 </ul>
