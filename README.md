@@ -12,10 +12,10 @@ At Johnson Controls, I work as a Software Engineer and Quality Assurance Enginee
   </p>
 
 <p dir="auto">
-  Holding 7+ years of experienced as a Software Engineer with a demonstrated history of working in the consumer electronics industry. 
+  Holding 8+ years of experienced as a Software QA Engineer with a demonstrated history of working in the consumer electronics industry. 
 </p>
 <p dir="auto">
-Skilled in IoT device testing and having a knowledge of programming language in Java, Python, R, HTML, CSS, SQL.
+Skilled in IoT device testing and having a knowledge of programming language in Java, Python, HTML, CSS, SQL.
 </p>
   
   <h2 dir="auto">
@@ -32,51 +32,50 @@ Skilled in IoT device testing and having a knowledge of programming language in 
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> Key Leadership and Management Responsibilities</h2>
 <ul dir="auto">
-<h3 >Team Management</h3>
+  <h3>Team Management</h3>
+  <ul>
+    <li> <b> Mentorship and Coaching:</b> Develop team members' skills, provide feedback, and foster professional growth.</li>
+    <li> <b>Delegation:</b> Effectively assign tasks based on individual strengths to maximize efficiency.</li>
+    <li> <b> Conflict Resolution:</b> Mediate and resolve internal team conflicts to maintain a productive environment.</li>
+  </ul>
 
-<li> <b> Mentorship and Coaching:</b> Develop team members' skills, provide feedback, and foster professional growth.</li>
+  <h3> Agile and Scrum Management </h3>
+  <ul>
+    <li> <b>Sprint Planning and Execution:</b> Lead the team in planning and executing sprints, from daily stand-ups to sprint reviews. </li> 
+    <li> <b>Backlog Management:</b> Collaborate with the product team to refine and prioritize the backlog.</li>
+    <li> <b>Retrospectives:</b> Facilitate sessions to help the team identify and implement process improvements.</li>
+  </ul>
 
-<li> <b>Delegation:</b> Effectively assign tasks based on individual strengths to maximize efficiency.</li>
+  <h3> Jira Management</h3>
+  <ul>
+    <li> <b> Workflow and Board Configuration:</b> Customize Jira to create efficient workflows and visual boards that reflect your team's process.</li>
+    <li> <b> Reporting and Dashboards:</b> Use Jira's reporting features to track key metrics and provide stakeholders with clear insights into project status.</li>
+  </ul>
 
-<li> <b> Conflict Resolution:</b> Mediate and resolve internal team conflicts to maintain a productive environment.</li>
+  <h3> Code | Script Review</h3>
+  <ul>
+    <li> <b> Establish Guidelines:</b> Define and enforce standards for code and script quality and style to ensure consistency.</li>
+    <li> <b> Peer Review Process:</b> Manage a process where team members review each other's code to catch bugs early and share knowledge.</li>
+  </ul>
 
-<h3> **Agile and Scrum Management** </h3>
-
-<li> <b>Sprint Planning and Execution:</b> Lead the team in planning and executing sprints, from daily stand-ups to sprint reviews. </li> 
-
-<li> <b>Backlog Management:</b> Collaborate with the product team to refine and prioritize the backlog.</li>
-
-<li> <b>Retrospectives:</b> Facilitate sessions to help the team identify and implement process improvements.</li>
-
-<h3> **Jira Management**</h3>
-
-<li> <b> Workflow and Board Configuration:</b> Customize Jira to create efficient workflows and visual boards that reflect your team's process.</li>
-
-<li> <b> Reporting and Dashboards:</b> Use Jira's reporting features to track key metrics and provide stakeholders with clear insights into project status.</li>
-
-<h3> **Code | Script Review**</h3>
-
-<li> <b> Establish Guidelines:</b> Define and enforce standards for code and script quality and style to ensure consistency.</li>
-
-<li> <b> Peer Review Process:</b> Manage a process where team members review each other's code to catch bugs early and share knowledge.</li>
-
-<h3> **Test Plan and Strategy** </h3>
-
-<li> <b> Strategic Planning:</b> Define the scope, objectives, and overall strategy for testing a product.</li>
-
-<li> <b>Risk Management:</b> Identify potential risks and create a mitigation plan to ensure product quality.</li>
-
-<li> <b> Timeline and Resource Planning:</b> Estimate and allocate the necessary resources (time, tools, personnel) to meet testing goals.</li>
+  <h3> Test Plan and Strategy </h3>
+  <ul>
+    <li> <b> Strategic Planning:</b> Define the scope, objectives, and overall strategy for testing a product.</li>
+    <li> <b>Risk Management:</b> Identify potential risks and create a mitigation plan to ensure product quality.</li>
+    <li> <b> Timeline and Resource Planning:</b> Estimate and allocate the necessary resources (time, tools, personnel) to meet testing goals.</li>
+  </ul>
 </ul>
 
 <h2 dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> Technical Skills</h2>
-
-**Good Knowledge in Z-Wave protocol.**
+<ul>
+Good Knowledge in Z-Wave protocol.
 Hands on experience in Manual and Automation testing with java.
 Good Knowledge in Android and Web testing.
 Fair Knowledge in API Testing.
+</ul>
 
-<h2> **Technical Skills:**</h2>
+<h3> Technical Skills:</h3>
+<ul>
 <b> Programming Languages:</b> Java, Python.
 <b> Scripting Languages:</b> Shell scripting(bash).
 <b> OS:</b> Linux (fedora/Ubuntu), Windows 7 and 10.
@@ -86,3 +85,4 @@ Fair Knowledge in API Testing.
 <b> Source Control:</b> Git.
 <b> Concepts:</b> OOPS, Data Structures.
 <b> Productivity software applications:</b> JIRA, Confluence, Google Suite (Docs, Sheets, Slides, Forms), MicroSoft 365 (Word, Excel, PowerPoint, MS Team, Outlook)
+</ul>
